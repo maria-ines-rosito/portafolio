@@ -1,5 +1,12 @@
-*{
-    margin: 30px;
+* {
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.navbar-toggler{
+    padding: 2 px;
+    margin: 0 px;
+    
 }
 
 h1 {color:green;}
