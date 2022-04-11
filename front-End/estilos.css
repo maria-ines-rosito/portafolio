@@ -9,4 +9,24 @@
     
 }
 
-h1 {color:green;}
+body{
+    background-color: black;
+    color:white
+}
+
+#banner{
+    margin:70px;
+    
+}
+
+h1 {
+    background-color: darkred;
+}
+h2 {
+    background-color:indianred;
+}
+
+section {
+    margin:70px;
+}
+
