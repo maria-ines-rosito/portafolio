@@ -1,0 +1,42 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.navbar-toggler{
+    padding: 2 px;
+    margin: 0 px;
+    
+}
+
+body{
+    background-color: black;
+    color:white
+}
+
+#banner{
+    margin:70px;
+    margin-top: 150px;
+}
+
+h1 {
+    background-color: darkred;
+}
+h2 {
+    background-color:indianred;
+}
+
+section {
+  margin:70px;
+  padding-top:120px;  
+  padding-bottom:120px;
+  border-radius: 50px;
+}
+
+footer {
+    margin:70px;
+    padding-top:20px;  
+    padding-bottom:20px;
+    border-radius: 50px;
+  }

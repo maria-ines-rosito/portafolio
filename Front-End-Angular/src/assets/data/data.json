@@ -1,0 +1,116 @@
+{
+    "encabezado":"encabezado",
+    
+    "name": "María Inés Rosito",
+    "banner": "./assets/images/fullstackdeveloper1.jpg",
+
+    "acerca-de": "acerca-de",
+
+    "position": "Full Stack Developer JR",
+    "description": "Soy desarrolladora Full Stack, desenvolviendo bien tanto en el FrontEnd como en el BackEnd. Me interesa desarrollar y diseñar aplicaciones y sitios web responsivos y dinámicos de forma creativa y personalizada. Me considero responsable, detallista, perseverante, puntual, organizada y empática. Poseo excelente predisposición tanto para trabajar en equipo como para llevar a cabo los objetivos de forma independiente. Siempre buscando nuevos retos para aplicar mis conocimientos y. a su vez, seguir aprendiendo. ",
+    "img": "./assets/images/foto-perfil.jpg",
+
+    "experience":[
+        {
+        "position": "Investigadora voluntaria en el Área de Turismo Sostenible",
+        "img": "./assets/images/logo-Geo1.png",
+        "company": "Centro de Desarrollo Sustentable GEO",
+        "start-time": "Sep. 2021",
+        "end-time": "Presente",
+        "description": null
+    },
+    {
+        "position": "Language Data Analyst",
+        "img": "./assets/images/transperfect1.png",
+        "company": "TransPerfect",
+        "start-time": "Feb. 2021",
+        "end-time": "Jun. 2021",
+        "description": "Transcripción de caracteres, de forma ágil y precisa, presentes en imágenes en español y portugués, siguiendo los criterios de calidad de la empresa"
+    },
+    {
+        "position": "Guía turística voluntaria",
+        "img": "./assets/images/icono-de-guia.png",
+        "company": null,
+        "start-time": "2017",
+        "end-time": "2019",
+        "description":[
+            {
+            "texto":"Realización de visitas guiadas en el Museo de Ana Frank Argentina.", 
+            "texto1":"Participación en Open House Buenos Aires (Nov 2019).", 
+            "texto2":"Planificación y realización de visitas guiadas pedestres en plazas y barrios de CABA, City Tour en CABA y Full Day en San Antonio de Areco.",
+            "texto3":"Aprendizaje: relevamiento de campo; armado de itinerarios y circuitos turísticos; contratación de seguros, servicios de transporte y restauración; armado de lista de pasajeros(CNRT); diseño de flyer; coordinación de grupos; trabajo en equipo y manejo de tiempo."
+        }]
+    }
+],
+
+    "educacion":[
+        {
+        "school": "Junior Achievement y Google",
+        "title": "Crecé con Google para Jóvenes",
+        "img": "./assets/images/crece-con-google1.png",
+        "start-time": "feb.2022",
+        "end-time": "Presente",
+        "description": "Aprendizaje: Nociones de Marketing Digital, Google Ads y certificaciones de Búsqueda y video de Google Ads."
+    },
+    {
+        "school": "C.M.F.P N°1 Ricardo Rojas",
+        "title": "Técnicas de diseño gráfico en sistemas informáticos",
+        "img": "./assets/images/logo-cfp-ricardo-rojas.png",
+        "start-time": "mar.2022",
+        "end-time": "dic.2022",
+        "description": "Aprendizaje: Nociones de dibujo y diseño, Corel y Photoshop."
+    },
+    {
+        "school": "Conosur.Tech",
+        "title": "YoQuieroProgramar",
+        "img": "./assets/images/logo-ConoSur1.png",
+        "start-time": "nov.2021",
+        "end-time": "Presente",
+        "description": "Aprendizaje: HTML, CSS, JavaScript, C#, SQL, DevOps."
+    },
+    {
+        "school": "Argentina Programa",
+        "title": "#YoProgramo",
+        "img": "./assets/images/logo-arg-programa1v.png"  ,
+        "start-time": "feb.2022",
+        "end-time": "ago.2022",
+        "description": "Aprendizaje: HTML, CSS, Bootstrap, JS, TypeScript, Angular, SQL, MySQL, Java. "
+    },
+    {
+        "school": "Argentina Programa",
+        "title": "#SeProgramar",
+        "img": "./assets/images/logo-arg-programa1v.png"  ,
+        "start-time": "oct.2021",
+        "end-time": "dic.2022",
+        "description": "Aprendizaje: Gobstones, JavaScript y Ruby. "
+    },
+    {
+        "school": "C.M.F.P N°1 Ricardo Rojas",
+        "title": "Diseño web",
+        "img": "./assets/images/logo-cfp-ricardo-rojas.png" ,
+        "start-time": "ago.2021",
+        "end-time": "dic.2021",
+        "description": "Aprendizaje: - Diseño en WordPress, HTML y CSS. "
+    },
+
+    {
+        "school": "Universidad Nacional de San Martín",
+        "title": "Licenciatura en turismo con título intermedio de Guía de Turismo",
+        "img": "./assets/images/unsam-logo1.jpg" ,
+        "start-time": "2015",
+        "end-time": "2020",
+        "description": "Aprendizaje: - Diseño en WordPress, HTML y CSS. "
+    }
+    ]
+
+
+}
+
+
+
+
+
+
+
+
+
